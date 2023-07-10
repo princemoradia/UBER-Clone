@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-0 C:\ME\FLUTTER\uberback\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-1 C:\ME\FLUTTER\uberback\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-2 C:\ME\FLUTTER\uberback\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-3 C:\ME\FLUTTER\uberback\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-4 C:\ME\FLUTTER\uberback\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-5 C:\ME\FLUTTER\uberback\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-6 C:\ME\FLUTTER\uberback\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-7 C:\Users\prince\.gradle\caches\transforms-3\2ffb0360d83bab6ed7665e63bcb66d04\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-8 C:\Users\prince\.gradle\caches\transforms-3\75fcb9d3b94cbea09116f268ae351f61\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-9 C:\Users\prince\.gradle\caches\transforms-3\834a4435b41144e2f8076acb9024a891\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-10 C:\Users\prince\.gradle\caches\transforms-3\a2a6d4186090b2b9d955e2799515201a\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-11 C:\Users\prince\.gradle\caches\transforms-3\e6462e04c24d31fa20570cdf4bb4e1c8\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.3.2-12 C:\Users\prince\.gradle\caches\transforms-3\ea39f342bf1645a9d43372302f3d0356\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-13 C:\Users\prince\.gradle\caches\transforms-3\f15106001e82d13e80f3f4d08e01b942\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-14 C:\Users\prince\.gradle\caches\transforms-3\ff39cc8b3372854ff19d5cd85cfad767\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-15 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.6.3\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-16 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.6.3\android\src\release\res

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_tooltip_exit.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_slide_in_top.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/design_bottom_sheet_slide_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/linear_indeterminate_line2_tail_interpolator.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/linear_indeterminate_line2_tail_interpolator.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/linear_indeterminate_line1_head_interpolator.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/linear_indeterminate_line1_head_interpolator.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/fragment_fast_out_extra_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-fragment-1.3.6-15:/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/design_snackbar_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_slide_out_bottom.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_fade_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_slide_out_top.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_fade_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_popup_exit.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/linear_indeterminate_line1_tail_interpolator.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/linear_indeterminate_line1_tail_interpolator.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_tooltip_enter.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/design_bottom_sheet_slide_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/linear_indeterminate_line2_head_interpolator.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/linear_indeterminate_line2_head_interpolator.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_slide_in_bottom.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/mtrl_bottom_sheet_slide_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/design_snackbar_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/mtrl_bottom_sheet_slide_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/anim/abc_popup_enter.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/anim/abc_popup_enter.xml"
+    }
+]

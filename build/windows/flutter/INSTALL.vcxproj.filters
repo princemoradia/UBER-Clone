@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\ME\FLUTTER\uber\build\windows\CMakeFiles\76a765654e67a7d6d0c6db68e81869e2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A2A3F45-D1F7-34DC-AAE0-78DFD461F880}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

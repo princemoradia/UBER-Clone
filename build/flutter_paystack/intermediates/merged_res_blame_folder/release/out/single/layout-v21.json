@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v21/notification_template_icon_group.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-core-1.8.0-24:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v21/notification_action.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-core-1.8.0-24:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v21/notification_template_custom_big.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-core-1.8.0-24:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v21/notification_action_tombstone.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-core-1.8.0-24:/layout-v21/notification_action_tombstone.xml"
+    }
+]

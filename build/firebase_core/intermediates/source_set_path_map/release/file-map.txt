@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-pngs-0 C:\ME\FLUTTER\uberback\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-1 C:\ME\FLUTTER\uberback\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-2 C:\ME\FLUTTER\uberback\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-3 C:\ME\FLUTTER\uberback\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-4 C:\ME\FLUTTER\uberback\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-5 C:\ME\FLUTTER\uberback\build\firebase_core\intermediates\merged_res\release
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-6 C:\Users\prince\.gradle\caches\transforms-3\2ffb0360d83bab6ed7665e63bcb66d04\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-7 C:\Users\prince\.gradle\caches\transforms-3\75fcb9d3b94cbea09116f268ae351f61\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-8 C:\Users\prince\.gradle\caches\transforms-3\834a4435b41144e2f8076acb9024a891\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.2-9 C:\Users\prince\.gradle\caches\transforms-3\ea39f342bf1645a9d43372302f3d0356\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-10 C:\Users\prince\.gradle\caches\transforms-3\f15106001e82d13e80f3f4d08e01b942\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-11 C:\Users\prince\.gradle\caches\transforms-3\ff39cc8b3372854ff19d5cd85cfad767\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-12 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.14.0\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-13 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.14.0\android\src\release\res

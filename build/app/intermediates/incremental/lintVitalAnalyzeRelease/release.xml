@@ -1,0 +1,39 @@
+<variant
+    name="release"
+    package="com.example.uber"
+    minSdkVersion="20"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="C:\ME\FLUTTER\uberback\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="C:\ME\FLUTTER\uberback\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.2.0;C:\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="C:\ME\FLUTTER\uberback\build\app\intermediates\lint_vital_partial_results\release\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="C:\ME\FLUTTER\uberback\build\app\intermediates\javac\release\classes;C:\ME\FLUTTER\uberback\build\app\tmp\kotlin-classes\release;C:\ME\FLUTTER\uberback\build\app\kotlinToolingMetadata;C:\ME\FLUTTER\uberback\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.uber"
+      generatedSourceFolders="C:\ME\FLUTTER\uberback\build\app\generated\source\buildConfig\release;C:\ME\FLUTTER\uberback\build\app\generated\aidl_source_output_dir\release\out;C:\ME\FLUTTER\uberback\build\app\generated\renderscript_source_output_dir\release\out;C:\ME\FLUTTER\uberback\build\app\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="C:\ME\FLUTTER\uberback\build\app\generated\res\google-services\release;C:\ME\FLUTTER\uberback\build\app\generated\res\rs\release;C:\ME\FLUTTER\uberback\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

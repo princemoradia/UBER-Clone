@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">676409224252-vpqvq5bp1boau2bacigtahc30m7v380v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">676409224252</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWGzQUjaEH5TeyLcUPAaihJ0BqNQmewcI</string>
+    <string name="google_app_id" translatable="false">1:676409224252:android:99a73ea61545ddd71ba739</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWGzQUjaEH5TeyLcUPAaihJ0BqNQmewcI</string>
+    <string name="google_storage_bucket" translatable="false">uber-e31ba.appspot.com</string>
+    <string name="project_id" translatable="false">uber-e31ba</string>
+</resources>

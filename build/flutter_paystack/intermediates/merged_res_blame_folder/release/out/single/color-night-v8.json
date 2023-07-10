@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]

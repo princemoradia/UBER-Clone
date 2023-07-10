@@ -1,0 +1,10 @@
+^C:\ME\FLUTTER\UBER\BUILD\WINDOWS\CMAKEFILES\C98E3B9DC9190BF11A91AC166749287F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/ME/FLUTTER/uber/windows -BC:/ME/FLUTTER/uber/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/ME/FLUTTER/uber/build/windows/uber.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

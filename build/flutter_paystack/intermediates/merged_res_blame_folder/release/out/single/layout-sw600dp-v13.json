@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

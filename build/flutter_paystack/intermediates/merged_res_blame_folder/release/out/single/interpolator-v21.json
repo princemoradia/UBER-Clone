@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_emphasized.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_standard.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_standard.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_linear.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_linear.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml"
+    }
+]

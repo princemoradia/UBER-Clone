@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-0 C:\ME\FLUTTER\uberback\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-1 C:\ME\FLUTTER\uberback\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-2 C:\ME\FLUTTER\uberback\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-3 C:\ME\FLUTTER\uberback\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-4 C:\ME\FLUTTER\uberback\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-5 C:\ME\FLUTTER\uberback\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-6 C:\ME\FLUTTER\uberback\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-7 C:\Users\prince\.gradle\caches\transforms-3\2ffb0360d83bab6ed7665e63bcb66d04\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-8 C:\Users\prince\.gradle\caches\transforms-3\75fcb9d3b94cbea09116f268ae351f61\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-9 C:\Users\prince\.gradle\caches\transforms-3\834a4435b41144e2f8076acb9024a891\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-10 C:\Users\prince\.gradle\caches\transforms-3\e6462e04c24d31fa20570cdf4bb4e1c8\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.2-11 C:\Users\prince\.gradle\caches\transforms-3\ea39f342bf1645a9d43372302f3d0356\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-12 C:\Users\prince\.gradle\caches\transforms-3\f15106001e82d13e80f3f4d08e01b942\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-13 C:\Users\prince\.gradle\caches\transforms-3\ff39cc8b3372854ff19d5cd85cfad767\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-14 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.1\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-15 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.1\android\src\release\res

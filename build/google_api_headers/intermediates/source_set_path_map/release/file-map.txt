@@ -1,0 +1,13 @@
+io.github.zeshuaro.google_api_headers-pngs-0 C:\ME\FLUTTER\uberback\build\google_api_headers\generated\res\pngs\release
+io.github.zeshuaro.google_api_headers-resValues-1 C:\ME\FLUTTER\uberback\build\google_api_headers\generated\res\resValues\release
+io.github.zeshuaro.google_api_headers-rs-2 C:\ME\FLUTTER\uberback\build\google_api_headers\generated\res\rs\release
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-3 C:\ME\FLUTTER\uberback\build\google_api_headers\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-4 C:\ME\FLUTTER\uberback\build\google_api_headers\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.zeshuaro.google_api_headers-merged_res-5 C:\ME\FLUTTER\uberback\build\google_api_headers\intermediates\merged_res\release
+io.github.zeshuaro.google_api_headers-packaged_res-6 C:\ME\FLUTTER\uberback\build\package_info_plus\intermediates\packaged_res\release
+io.github.zeshuaro.google_api_headers-jetified-window-1.0.0-beta04-7 C:\Users\prince\.gradle\caches\transforms-3\2ffb0360d83bab6ed7665e63bcb66d04\transformed\jetified-window-1.0.0-beta04\res
+io.github.zeshuaro.google_api_headers-core-1.6.0-8 C:\Users\prince\.gradle\caches\transforms-3\834a4435b41144e2f8076acb9024a891\transformed\core-1.6.0\res
+io.github.zeshuaro.google_api_headers-jetified-window-java-1.0.0-beta04-9 C:\Users\prince\.gradle\caches\transforms-3\f15106001e82d13e80f3f4d08e01b942\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.zeshuaro.google_api_headers-jetified-annotation-experimental-1.1.0-10 C:\Users\prince\.gradle\caches\transforms-3\ff39cc8b3372854ff19d5cd85cfad767\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.zeshuaro.google_api_headers-main-11 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\google_api_headers-1.6.0\android\src\main\res
+io.github.zeshuaro.google_api_headers-release-12 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\google_api_headers-1.6.0\android\src\release\res

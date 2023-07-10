@@ -1,0 +1,12 @@
+com.jrai.flutter_keyboard_visibility-pngs-0 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\generated\res\pngs\release
+com.jrai.flutter_keyboard_visibility-resValues-1 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\generated\res\resValues\release
+com.jrai.flutter_keyboard_visibility-rs-2 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\generated\res\rs\release
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-3 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-4 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jrai.flutter_keyboard_visibility-merged_res-5 C:\ME\FLUTTER\uberback\build\flutter_keyboard_visibility\intermediates\merged_res\release
+com.jrai.flutter_keyboard_visibility-jetified-window-1.0.0-beta04-6 C:\Users\prince\.gradle\caches\transforms-3\2ffb0360d83bab6ed7665e63bcb66d04\transformed\jetified-window-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-core-1.6.0-7 C:\Users\prince\.gradle\caches\transforms-3\834a4435b41144e2f8076acb9024a891\transformed\core-1.6.0\res
+com.jrai.flutter_keyboard_visibility-jetified-window-java-1.0.0-beta04-8 C:\Users\prince\.gradle\caches\transforms-3\f15106001e82d13e80f3f4d08e01b942\transformed\jetified-window-java-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-jetified-annotation-experimental-1.1.0-9 C:\Users\prince\.gradle\caches\transforms-3\ff39cc8b3372854ff19d5cd85cfad767\transformed\jetified-annotation-experimental-1.1.0\res
+com.jrai.flutter_keyboard_visibility-main-10 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.1\android\src\main\res
+com.jrai.flutter_keyboard_visibility-release-11 C:\Users\prince\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.1\android\src\release\res

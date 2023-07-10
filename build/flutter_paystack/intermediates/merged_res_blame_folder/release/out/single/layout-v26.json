@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v26/mtrl_calendar_month.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-9:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-4:/layout-v26/abc_screen_toolbar.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-21:/layout-v26/abc_screen_toolbar.xml"
+    }
+]
