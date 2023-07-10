@@ -4,7 +4,7 @@
 
 Hold on tight, because I am about to blow your mind with my latest creation! A fully functional Uber clone built using Flutter and powered by Firebase as the backend. 🎉🚀
 
-In this video, I will walk you through the stunning replica of the renowned Uber app, featuring an identical user interface and seamless user experience.🌟📲                                                                                                                                        
+In this project, I will walk you through the stunning replica of the renowned Uber app, featuring an identical user interface and seamless user experience.🌟📲                                                                                                                                        
                                                                                                                                                                  Let's dive into the key features of my Uber clone app:
 
 📲 User Registration: Say goodbye to complex registration processes! My app simplifies user onboarding with phone authentication and OTP verification, ensuring a secure and hassle-free experience.
